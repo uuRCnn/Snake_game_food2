@@ -3,8 +3,6 @@ import turtle as t
 import random
 import time
 
-
-
 UP = 90
 DOWN = 270
 LEFT = 180
